@@ -3,4 +3,4 @@ matplotlib
 bokeh
 tqdm
 chipwhisperer
-ipyml
+ipympl
