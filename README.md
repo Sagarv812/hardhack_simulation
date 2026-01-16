@@ -1,1 +1,0 @@
-# hardhack_simulation
