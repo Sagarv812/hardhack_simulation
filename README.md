@@ -5,7 +5,7 @@ Before we go on with actually implementing it in hardware there are some permiss
 3. A root terminal will open. In that, type `chmod -R 777 /dev/bus/usb`
 4. You should see something like `crwxrwxrwx 1 root root 189, <datetime> /dev/bus/usb/001/001` 3 times
 
-If all these appear, you are good to go!
+If all these appear, you are good to go!  
 Ensure you do these steps before running the code in the Jupyter notebook in the docker container
 
 
